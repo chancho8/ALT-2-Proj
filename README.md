@@ -13,4 +13,4 @@
 - matplotlib.pyplot
 ## First Iteration:
   In my first iteration of the project I created a scatterplot comparing the fail percentage and age of every car on the 2020 RSA annual review.
-  ![plot](./chancho8/ALT-2-Proj/plots/Original Plot/fail%-age.png)
+  ![plot](plots/Original Plot/fail%-age.png)
