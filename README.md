@@ -13,4 +13,8 @@
 - matplotlib.pyplot
 ## First Iteration:
   In my first iteration of the project I created a scatterplot comparing the fail percentage and age of every car on the 2020 RSA annual review.
-  ![plot](plots/Original Plot/fail%-age.png)
+  ![fail%-age](https://user-images.githubusercontent.com/94852144/160409539-a9995824-8a25-4187-aa99-05e6c04ad072.png)
+
+## Final Iteration:
+  ![FORD_vs_TOYOTA_with_scatter_2015-2020](https://user-images.githubusercontent.com/94852144/160409976-db217448-2ad6-4096-b8fa-e33e2e75c6d6.png)
+  ![FORD_vs_TOYOTA_no_scatter_2015-2020](https://user-images.githubusercontent.com/94852144/160409993-b38a7cb8-cd92-4018-b1ef-c988a8c8f644.png)
